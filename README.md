@@ -6,7 +6,7 @@
 
 ## Demo
 
-> [Check it live](http://ghostoy.github.io/a-dot).
+> [Check it live](http://tomalec.github.io/a-dot/).
 
 ## Usage
 
